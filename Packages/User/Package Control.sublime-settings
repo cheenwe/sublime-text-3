@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"AngularJS",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeCompile",
+		"Color Highlighter",
+		"File History",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Theme - Cobalt2"
+	]
+}

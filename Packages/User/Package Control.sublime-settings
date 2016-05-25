@@ -5,21 +5,27 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AlignTab",
 		"AngularJS",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"Codecs33",
 		"CoffeeCompile",
 		"Color Highlighter",
+		"ConvertToUTF8",
+		"CTags",
 		"File History",
 		"Git",
 		"GitGutter",
 		"Markdown Preview",
 		"Package Control",
+		"PlainNotes",
+		"PlainTasks",
 		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeREPL",
 		"Theme - Cobalt2"
 	]
 }

@@ -1,5 +1,5 @@
 # sublime-text-3
-my sublime config for ubuntu 
+my sublime config for ubuntu
 
 
 ## usage
@@ -42,9 +42,12 @@ git clone https://github.com/cheenwe/sublime-text-3 ~/.config/sublime-text-3
 
 
 ## support chinese input
->cp libsublime-imfix.so.del  /opt/sublime_text/libsublime-imfix.so
->cp sublime_text.desktop  /usr/share/applications/sublime_text.desktop
->cp subl /usr/bin/subl
+
+>cp ~/.config/sublime-text-3/libsublime-imfix.so.del  /opt/sublime_text/libsublime-imfix.so
+
+>cp ~/.config/sublime-text-3/sublime_text.desktop  /usr/share/applications/sublime_text.desktop
+
+>cp ~/.config/sublime-text-3/subl /usr/bin/subl
 
 
 ## License

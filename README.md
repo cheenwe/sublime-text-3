@@ -43,12 +43,11 @@ git clone https://github.com/cheenwe/sublime-text-3 ~/.config/sublime-text-3
 
 ## support chinese input
 
->cp ~/.config/sublime-text-3/libsublime-imfix.so.del  /opt/sublime_text/libsublime-imfix.so
-
->cp ~/.config/sublime-text-3/sublime_text.desktop  /usr/share/applications/sublime_text.desktop
-
->cp ~/.config/sublime-text-3/subl /usr/bin/subl
-
+```
+sudo cp ~/.config/sublime-text-3/libsublime-imfix.so.del  /opt/sublime_text/libsublime-imfix.so
+sudo cp ~/.config/sublime-text-3/sublime_text.desktop  /usr/share/applications/sublime_text.desktop
+sudo cp ~/.config/sublime-text-3/subl /usr/bin/subl
+```
 
 ## License
 

@@ -1,6 +1,55 @@
 # sublime-text-3
 my sublime config for ubuntu
 
+
+## support chinese input
+
+[ubuntu-sublime-text-3 支持中文输入法.tar.gz](https://github.com/cheenwe/sublime-text-3/files/2230148/ubuntu-sublime-text-3.tar.gz)
+
+0. 下载该压缩包
+    如我的电脑用户名是  cheenwe
+1. 解压 config 下压缩包到 /home/cheenwe/.config/ 目录下
+2. 解压 opt 下压缩包到 /opt/ 目录下
+3. 打开 /home/cheenwe/.config/sublime-text-3/sublime_text.desktop 即可输入中文
+
+## License
+
+>For 3.1.1 Build 3176
+
+1. 修改host文件
+
+在电脑host文件中添加如下几条
+host文件地址
+
+Windows：C:\Windows\System32\drivers\etc
+
+MacOS: /Private/etc
+
+Linux: /etc/hosts
+
+```
+127.0.0.1 license.sublimehq.com 
+127.0.0.1 45.55.255.55
+127.0.0.1 45.55.41.223
+```
+2. 输入 license
+```
+ZYNGA INC.
+50 User License
+EA7E-811825
+927BA117 84C9300F 4A0CCBC4 34A56B44
+985E4562 59F2B63B CCCFF92F 0E646B83
+0FD6487D 1507AE29 9CC4F9F5 0A6F32E3
+0343D868 C18E2CD5 27641A71 25475648
+309705B3 E468DDC4 1B766A18 7952D28C
+E627DDBA 960A2153 69A2D98A C87C0607
+45DC6049 8C04EC29 D18DFA40 442C680B
+
+1342224D 44D90641 33A3B9F2 46AADB8F
+```
+
+
+
 ## usage
 git clone https://github.com/cheenwe/sublime-text-3 ~/.config/sublime-text-3
 
@@ -37,49 +86,6 @@ git clone https://github.com/cheenwe/sublime-text-3 ~/.config/sublime-text-3
   "word_wrap": true
 }
 
-```
-
-
-## support chinese input
-
-[ubuntu-sublime-text-3 支持中文输入法.tar.gz](https://github.com/cheenwe/sublime-text-3/files/2230148/ubuntu-sublime-text-3.tar.gz)
-
-0. 下载该压缩包
-    如我的电脑用户名是  cheenwe
-1. 解压 config 下压缩包到 /home/cheenwe/.config/ 目录下
-2. 解压 opt 下压缩包到 /opt/ 目录下
-3. 打开 /home/cheenwe/.config/sublime-text-3/sublime_text.desktop 即可输入中文
-
-## License
-
->For 3.1.1 Build 3176
-
-1. 修改host文件
-
-在电脑host文件中添加如下几条
-host文件地址
-Windows：C:\Windows\System32\drivers\etc
-MacOS: /Private/etc
-Linux: /etc/hosts
-```
-127.0.0.1 license.sublimehq.com 
-127.0.0.1 45.55.255.55
-127.0.0.1 45.55.41.223
-```
-2. 输入 license
-```
-ZYNGA INC.
-50 User License
-EA7E-811825
-927BA117 84C9300F 4A0CCBC4 34A56B44
-985E4562 59F2B63B CCCFF92F 0E646B83
-0FD6487D 1507AE29 9CC4F9F5 0A6F32E3
-0343D868 C18E2CD5 27641A71 25475648
-309705B3 E468DDC4 1B766A18 7952D28C
-E627DDBA 960A2153 69A2D98A C87C0607
-45DC6049 8C04EC29 D18DFA40 442C680B
-
-1342224D 44D90641 33A3B9F2 46AADB8F
 ```
 
 ##  shortcut key
